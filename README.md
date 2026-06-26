@@ -1,6 +1,6 @@
 # ProtonESP
 
-![ProtonESP](assets/PROTONEYES.jpeg)
+![ProtonESP](assets/protonface.jpeg)
 
 ProtonESP is a low-cost AI robot project created for students and technology enthusiasts. ProtonESP is a compact and minimalist desktop robot designed to fit into the daily lives of students like me and create opportunities for people interested in engineering, programming, and artificial intelligence as a vision for future opportunities.
 
