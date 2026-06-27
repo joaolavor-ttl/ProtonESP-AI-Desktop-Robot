@@ -7,7 +7,7 @@
 #define SCREEN_HEIGHT 64
 #define OLED_RESET    -1
 
-// Pinos I2C do seu ESP32-S3 Zero
+// Pinos I2C ESP32-S3 Zero
 #define OLED_SDA 8
 #define OLED_SCL 9
 
@@ -77,11 +77,11 @@ void loop() {
         roboEyes.setMood(DEFAULT);
         Serial.println("Sorteio: DEFAULT 👀");
         break;
-      case 1:
+      /*case 1:
         roboEyes.setMood(HAPPY);
         Serial.println("Sorteio: HAPPY 😊");
         break;
-      /*case 2:
+      case 2:
         roboEyes.setMood(ANGRY);
         Serial.println("Sorteio: ANGRY 😠");
         break;
