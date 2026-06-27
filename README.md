@@ -13,10 +13,10 @@ ProtonESP is a low-cost AI robot project created for students and technology ent
 - 3D printed body and models
 
 ## Hardware
-- ESP32-S3
-- OLED 128x64
-- INMP441 microphone
-- MAX98357 3W
+- ESP32-S3 zero 4MB Flash and 2MB PSRAM
+- OLED 128x64 I2C 0,96''
+- INMP441 microphone I2S
+- MAX98357 3W I2S
 - Small oval 8Ω speaker
 - Small protoboard
 
